@@ -1,0 +1,25 @@
+
+
+
+.row {
+    display: flex;
+}
+
+.column {
+    width: 100%;
+}
+
+h1{
+    color: rgb(2, 10, 2) !important; 
+    border: 10px solid rgb(255, 44, 227) !important;
+    font-family: fantasy !important; 
+    text-align: center !important;
+    }
+
+.my-button {
+    border:1px solid black;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(255, 0, 234);
+    color: white;
+}
